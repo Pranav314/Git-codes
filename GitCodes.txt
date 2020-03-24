@@ -1,0 +1,8 @@
+command                       ==                            task
+
+git config --global user.name your name            ==  add the user name
+git config --global user.email youremail@gmail.com ==  add email of the user
+git config --global user.name                      ==  shows the name of current user
+git config --global user.email                     ==  shows the email of the current user
+git init                                           ==  initialise the repository
+git status                                         ==  shows the status of the files in the repository
